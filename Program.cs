@@ -18,25 +18,11 @@ namespace Assignment2
             }
             return true;
         }
-        static void GetPrimeNumber(int min, int max){
-            List<int> list = new List<int>();
 
-            for (int i = min; i < max; i++)
-            {
-                if (isPrime(i))
-                {
-                    list.Add(i);
-                }
-            }
-            Console.WriteLine($"Total prime number: {list.Count}");
-
-        }
         static async Task<List<int>> GetPrimeNumberAsync(int min, int max, int index){
             List<int> StoreList = new List<int>();
 
-
-
-           var list = await Task.Factory.StartNew(() => {
+            var list = await Task.Factory.StartNew(() => {
                 for (int i = min; i < max; i++)
                 {
                     if (isPrime(i))
