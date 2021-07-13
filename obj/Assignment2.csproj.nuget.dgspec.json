@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Rokie\\Assignment2\\Assignment2.csproj": {}
+    "c:\\Rokie\\Assignment2\\Assignment2.csproj": {}
   },
   "projects": {
-    "C:\\Rokie\\Assignment2\\Assignment2.csproj": {
+    "c:\\Rokie\\Assignment2\\Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Rokie\\Assignment2\\Assignment2.csproj",
+        "projectUniqueName": "c:\\Rokie\\Assignment2\\Assignment2.csproj",
         "projectName": "Assignment2",
-        "projectPath": "C:\\Rokie\\Assignment2\\Assignment2.csproj",
+        "projectPath": "c:\\Rokie\\Assignment2\\Assignment2.csproj",
         "packagesPath": "C:\\Users\\zzice209\\.nuget\\packages\\",
-        "outputPath": "C:\\Rokie\\Assignment2\\obj\\",
+        "outputPath": "c:\\Rokie\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
